@@ -1,4 +1,4 @@
-### **Python Password Combination Generator Analysis**
+
 
 ---
 
@@ -64,9 +64,3 @@ Generates **all possible 6-character password combinations** (1 starting charact
 
 ---
 
-#### **8. Example Output**
-```
-a_000.txt.7z → First archive for passwords starting with "a"  
-z_689.txt.7z → Final archive for passwords starting with "z"  
-Total: ~683 GB per starting character (compressed).  
-```
